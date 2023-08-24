@@ -4,7 +4,7 @@
             "outputFile": "mooc.vandy.java4android.shapes.app-mergeDebugResources-13:/values-w820dp-v13/values-w820dp-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\rajan\\Desktop\\Coursera Assignment\\m3-shapes\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "source": "C:\\Users\\rajan\\Desktop\\Coursera Assignment\\Android_Projects\\Geometry Calculation App\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "4",

@@ -8,11 +8,11 @@ mooc.vandy.java4android.shapes.app-recyclerview-1.1.0-6 C:\Users\rajan\.gradle\c
 mooc.vandy.java4android.shapes.app-jetified-viewpager2-1.0.0-7 C:\Users\rajan\.gradle\caches\transforms-3\e7f559aeed8a333ac033094f9b01cb15\transformed\jetified-viewpager2-1.0.0\res
 mooc.vandy.java4android.shapes.app-cardview-1.0.0-8 C:\Users\rajan\.gradle\caches\transforms-3\f265caa8a7b04833f07234ff2654679c\transformed\cardview-1.0.0\res
 mooc.vandy.java4android.shapes.app-coordinatorlayout-1.1.0-9 C:\Users\rajan\.gradle\caches\transforms-3\f6786958da7f288bdbdbf708327091d3\transformed\coordinatorlayout-1.1.0\res
-mooc.vandy.java4android.shapes.app-pngs-10 C:\Users\rajan\Desktop\Coursera Assignment\m3-shapes\app\build\generated\res\pngs\debug
-mooc.vandy.java4android.shapes.app-resValues-11 C:\Users\rajan\Desktop\Coursera Assignment\m3-shapes\app\build\generated\res\resValues\debug
-mooc.vandy.java4android.shapes.app-rs-12 C:\Users\rajan\Desktop\Coursera Assignment\m3-shapes\app\build\generated\res\rs\debug
-mooc.vandy.java4android.shapes.app-mergeDebugResources-13 C:\Users\rajan\Desktop\Coursera Assignment\m3-shapes\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
-mooc.vandy.java4android.shapes.app-mergeDebugResources-14 C:\Users\rajan\Desktop\Coursera Assignment\m3-shapes\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
-mooc.vandy.java4android.shapes.app-merged_res-15 C:\Users\rajan\Desktop\Coursera Assignment\m3-shapes\app\build\intermediates\merged_res\debug
-mooc.vandy.java4android.shapes.app-debug-16 C:\Users\rajan\Desktop\Coursera Assignment\m3-shapes\app\src\debug\res
-mooc.vandy.java4android.shapes.app-main-17 C:\Users\rajan\Desktop\Coursera Assignment\m3-shapes\app\src\main\res
+mooc.vandy.java4android.shapes.app-pngs-10 C:\Users\rajan\Desktop\Coursera Assignment\Android_Projects\Geometry Calculation App\app\build\generated\res\pngs\debug
+mooc.vandy.java4android.shapes.app-resValues-11 C:\Users\rajan\Desktop\Coursera Assignment\Android_Projects\Geometry Calculation App\app\build\generated\res\resValues\debug
+mooc.vandy.java4android.shapes.app-rs-12 C:\Users\rajan\Desktop\Coursera Assignment\Android_Projects\Geometry Calculation App\app\build\generated\res\rs\debug
+mooc.vandy.java4android.shapes.app-mergeDebugResources-13 C:\Users\rajan\Desktop\Coursera Assignment\Android_Projects\Geometry Calculation App\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+mooc.vandy.java4android.shapes.app-mergeDebugResources-14 C:\Users\rajan\Desktop\Coursera Assignment\Android_Projects\Geometry Calculation App\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+mooc.vandy.java4android.shapes.app-merged_res-15 C:\Users\rajan\Desktop\Coursera Assignment\Android_Projects\Geometry Calculation App\app\build\intermediates\merged_res\debug
+mooc.vandy.java4android.shapes.app-debug-16 C:\Users\rajan\Desktop\Coursera Assignment\Android_Projects\Geometry Calculation App\app\src\debug\res
+mooc.vandy.java4android.shapes.app-main-17 C:\Users\rajan\Desktop\Coursera Assignment\Android_Projects\Geometry Calculation App\app\src\main\res

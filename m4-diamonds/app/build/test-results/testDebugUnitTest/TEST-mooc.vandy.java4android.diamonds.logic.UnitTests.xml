@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="mooc.vandy.java4android.diamonds.logic.UnitTests" tests="9" skipped="0" failures="0" errors="0" timestamp="2023-08-24T16:28:16" hostname="LAPTOP-972510TH" time="0.021">
+  <properties/>
+  <testcase name="randomTest" classname="mooc.vandy.java4android.diamonds.logic.UnitTests" time="0.005"/>
+  <testcase name="testDiamond1" classname="mooc.vandy.java4android.diamonds.logic.UnitTests" time="0.001"/>
+  <testcase name="testDiamond2" classname="mooc.vandy.java4android.diamonds.logic.UnitTests" time="0.001"/>
+  <testcase name="testDiamond3" classname="mooc.vandy.java4android.diamonds.logic.UnitTests" time="0.001"/>
+  <testcase name="testDiamond4" classname="mooc.vandy.java4android.diamonds.logic.UnitTests" time="0.002"/>
+  <testcase name="testDiamond5" classname="mooc.vandy.java4android.diamonds.logic.UnitTests" time="0.002"/>
+  <testcase name="testDiamond6" classname="mooc.vandy.java4android.diamonds.logic.UnitTests" time="0.002"/>
+  <testcase name="testDiamond7" classname="mooc.vandy.java4android.diamonds.logic.UnitTests" time="0.002"/>
+  <testcase name="testDiamond8" classname="mooc.vandy.java4android.diamonds.logic.UnitTests" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
